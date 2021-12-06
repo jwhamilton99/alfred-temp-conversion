@@ -1,4 +1,4 @@
-# Alfred Temp Conversion
+# Alfred Temp Converter
 
 Convert temps in your Alfred search bar.
 
