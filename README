@@ -1,5 +1,7 @@
 Convert temps in your Alfred search bar.
 
+[Download Here](https://github.com/jwhamilton99/alfred-temp-conversion/raw/master/Temp%20Conversion.alfredworkflow)
+
 Usage: 
 	"temp 100f" converts to Celsius, Kelvin, and Rankine.
 	"temp 100c" converts to Fahrenheit, Kelvin, and Rankine.
