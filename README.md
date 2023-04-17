@@ -19,5 +19,3 @@ If it doesn't work, you may need to install a few Python packages:
 
 * `sudo pip install json`
 * `sudo pip install re`
-
-If you have any issues tweet at me [@jwhamilton_](https://twitter.com/jwhamilton_)
